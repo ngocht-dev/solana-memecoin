@@ -2,5 +2,5 @@
   "name": "Crazy Doge",
   "symbol": "CZDOGE",
   "description": "a memecoin :)",
-  "image": ""
+  "image": "https://raw.githubusercontent.com/ngocht-dev/solana-memecoin/main/memecoin-spl/logo.jpeg"
 }
