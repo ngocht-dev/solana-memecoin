@@ -1,3 +1,2 @@
-## Jambo Solana
-- Jambo Token creator.
-- Jambo Bank Dapp.
+## Solana Memecoin
+- Meme Token creator.
